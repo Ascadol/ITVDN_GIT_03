@@ -22,6 +22,9 @@ def vid():
     main()
 
 
+new_var_2 = 2
+
+
 def main ():
     print("1. Додавання. 2. Віднімання. 3. Вихід")
     way = int(input("Оберіть шлях: "))
